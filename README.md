@@ -1,4 +1,5 @@
 🌱 Habit Tracker
+
 A web application designed to help users build and maintain healthy daily routines through habit tracking, community challenges, and personal progress analytics.
 
 📌 Project Overview
@@ -23,6 +24,7 @@ Boost Personal Accountability: Introduce systems that reinforce discipline and s
 🔔 Reminders & Notifications — Stay on track with timely alerts (planned).
 
 🛠️ Tech Stack
+
 Frontend
 HTML5, CSS3, JavaScript
 
